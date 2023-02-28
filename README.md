@@ -1,6 +1,4 @@
-Reference: https://go.dev/doc/tutorial/web-service-gin
-Gin Web Framework: https://pkg.go.dev/github.com/gin-gonic/gin
-Gin Docs: https://gin-gonic.com/docs/
+Reference: https://go.dev/doc/tutorial/generics
 
 
 ```
